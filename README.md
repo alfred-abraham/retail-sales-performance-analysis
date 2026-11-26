@@ -351,18 +351,6 @@ Historical monthly sales patterns can support inventory management, promotional 
 
 Improving the completeness of customer demographic information, particularly country information, could enable more accurate customer segmentation and targeted marketing.
 
-## Repository Structure
-
-    retail-sales-performance-analysis/
-    |
-    |-- README.md
-    |-- Database_Table_Initialization.sql
-    |-- KPI_Queries.sql
-    |-- Visualization_Queries.sql
-    |-- Dashboard - Executive Overview.png
-    |-- Dashboard - Product Performance.png
-    |-- Dashboard - Customer Analysis.png
-
 ## How to Reproduce the Project
 
 1. Obtain the original datasets from the Data with Baraa resources linked in the Dataset Source section.
@@ -372,7 +360,7 @@ Improving the completeness of customer demographic information, particularly cou
 5. Execute the KPI and visualization SQL queries using MySQL 8.0 or later.
 6. Connect Power BI Desktop to the MySQL database.
 7. Perform the necessary data transformations using Power Query.
-8. Establish relationships between the fact and dimension tables.
+8. Establish relationships between the tables.
 9. Create the required DAX measures.
 10. Develop the interactive dashboard pages.
 
