@@ -102,7 +102,7 @@ Overall KPIs include all available sales records when no filters are applied.
 
 ## Dashboard 1: Executive Overview
 
-[![Executive Overview](Dashboard%20-%20Executive%20Overview.png)](https://github.com/alfred-abraham/retail-sales-performance-analysis/blob/main/visuals/Dashboard%20-%20Executive%20Overview.png)
+![Executive Overview](visuals/Dashboard%20-%20Executive%20Overview.png)
 
 ### Overview
 
@@ -143,7 +143,7 @@ The business relies heavily on the bike category for revenue generation. Histori
 
 ## Dashboard 2: Product Performance Analysis
 
-![Product Performance](Dashboard%20-%20Product%20Performance.png)
+![Product Performance](visuals/Dashboard%20-%20Product%20Performance.png)
 
 ### Overview
 
@@ -196,7 +196,7 @@ Cross-selling accessories alongside bike purchases could provide opportunities t
 
 ## Dashboard 3: Customer Analysis
 
-![Customer Analysis](Dashboard%20-%20Customer%20Analysis.png)
+![Customer Analysis](visuals/Dashboard%20-%20Customer%20Analysis.png)
 
 ### Overview
 
