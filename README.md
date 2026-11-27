@@ -102,7 +102,7 @@ Overall KPIs include all available sales records when no filters are applied.
 
 ## Dashboard 1: Executive Overview
 
-![Executive Overview](Dashboard%20-%20Executive%20Overview.png)
+[![Executive Overview](Dashboard%20-%20Executive%20Overview.png)](https://github.com/alfred-abraham/retail-sales-performance-analysis/blob/main/visuals/Dashboard%20-%20Executive%20Overview.png)
 
 ### Overview
 
